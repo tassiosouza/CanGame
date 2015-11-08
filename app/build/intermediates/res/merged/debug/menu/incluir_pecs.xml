@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" >
+
+    <item
+        android:id="@+id/action_save"
+        android:icon="@drawable/ic_action_save"
+        android:showAsAction="always"
+        android:title="@string/salvar"/>
+    <item
+        android:id="@+id/action_executar"
+        android:icon="@drawable/ic_play"
+        android:showAsAction="always"
+        android:title="@string/executar"/>
+
+</menu><!-- From: file:/Users/Tassio/CanGameMaker1/app/src/main/res/menu/incluir_pecs.xml -->

@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" >
+
+    <item
+        android:id="@+id/menu_album"
+        android:icon="@drawable/ic_action_picture"
+        android:showAsAction="always|withText"
+        android:title="@string/album"/>
+    <item
+        android:id="@+id/menu_camera"
+        android:icon="@drawable/ic_action_camera"
+        android:showAsAction="always|withText"
+        android:title="@string/camera"/>
+
+</menu>

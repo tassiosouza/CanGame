@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ScrollView01"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#f5f5f5"
+    android:padding="0dp"
+    android:scrollbars="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:visibility="visible"
+        android:weightSum="1" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_txt_item_list"
+            android:gravity="center_horizontal"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/TextView02"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="0dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:text="@string/raking_de_execucao"
+                android:gravity="center_horizontal"
+                android:textSize="12sp" />
+
+            <RatingBar
+                android:id="@+id/ratingBarExecRotina"
+                style="?android:attr/ratingBarStyleIndicator"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="10dp"
+                android:numStars="4"
+                android:rating="0" />
+
+        </LinearLayout>
+
+        <EditText
+            android:id="@+id/textViewNome"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/shape_edit_text"
+            android:ems="10"
+            android:hint="@string/nome_rotina"
+            android:inputType="textCapWords"
+            android:textSize="22sp" >
+
+            <requestFocus />
+        </EditText>
+
+        <LinearLayout
+            android:id="@+id/content_select_categoria"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="4dp"
+            android:background="@drawable/shape_edit_text_no_padding_bottom"
+            android:baselineAligned="false"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="6"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/text_label_categoria"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="3dp"
+                    android:text="@string/categoria"
+                    android:textSize="12sp" />
+
+                <Button
+                    android:id="@+id/button_categoria_rotina"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@null"
+                    android:gravity="left|center_vertical"
+                    android:onClick="onOptionSelected"
+                    android:text="@string/selecione"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/Black" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:background="#EBECED"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="40dp"
+                    android:background="#f5f5f5" >
+
+                    <TextView
+                        android:id="@+id/TextView01"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="15dp"
+                        android:text="@string/pecs_do_rotina"
+                        android:textColor="#25292B"
+                        android:textSize="12sp" />
+                </LinearLayout>
+
+                <com.terlici.dragndroplist.DragNDropListView
+                    android:id="@id/android:list"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:cacheColorHint="#00000000" />
+            </LinearLayout>
+
+            <ImageButton
+                android:id="@+id/button_selecionar_pecs"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_gravity="end|top"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:adjustViewBounds="true"
+                android:background="@null"
+                android:onClick="onOptionSelected"
+                android:scaleType="fitCenter"
+                android:src="@drawable/btn_mais" />
+        </FrameLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

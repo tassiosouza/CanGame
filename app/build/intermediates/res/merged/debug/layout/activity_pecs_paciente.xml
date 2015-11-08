@@ -1,0 +1,34 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context="com.funfactory.cangamemake.view.impl.PECSPacienteActivity" >
+    
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@color/White"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:visibility="visible" >
+
+        <TextView
+            android:id="@+id/text_menu"
+            android:layout_width="fill_parent"
+            android:layout_height="100dp"
+            android:background="@color/blue_light"
+            android:gravity="center"
+            android:text="@string/resumo_pecs_selec"
+            android:textColor="@color/Black" />
+
+        <Button
+            android:id="@+id/btn_rankings"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:text="@string/rakings_str" />
+
+    </LinearLayout>
+
+</LinearLayout>
+<!-- From: file:/Users/Tassio/CanGameMaker1/app/src/main/res/layout/activity_pecs_paciente.xml -->

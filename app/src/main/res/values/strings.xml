@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">Can Game Maker</string>
+    <string name="action_settings">Configurações</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- Menu Strings -->
+    <string name="menu_text">Opções</string>
+    <string name="menu_option_1">Cadastrar Paciente</string>
+    <string name="menu_option_2">Listar Paciente</string>
+    <string name="menu_option_3">Ranking</string>
+    <string name="title_activity_cadastrar_paciente">Cadastro de Paciente</string>
+
+    <!-- Form Cadastro Paciente -->
+    <string name="description_icon_photo">Clique para Incluir Foto</string>
+    <string name="description_date">Clique para Selecionar Data</string>
+    
+    <string name="lbl_info_basicas">INFORMAÇÕES BÁSICAS</string>
+    <string name="lbl_visualizar_pecs">VISUALIZAÇÃO DE PECS</string>
+    <string name="lbl_info_contato">CONTATO</string>
+    <string name="lbl_foto">FOTO DO PACIENTE</string>
+    <string name="registros_vinculados">Registros Vinculados</string>
+    <string name="lbl_data_nascimento">Data de Nascimento:</string>
+    <string name="lbl_sexo">Sexo:</string>
+    
+    <string name="cadastro_paciente">Cadastro de Paciente</string>
+    <string name="sexo_masculino">Masculino</string>
+    <string name="sexo_feminino">Feminino</string>
+    <string name="nome_paciente">Nome do Paciente</string>
+    <string name="nome_pai">Nome do Pai</string>
+    <string name="nome_mae">Nome da Mãe</string>
+    <string name="contato_pai">Telefone do Pai</string>
+    <string name="contato_mae">Telefone da Mãe</string>
+    <string name="data_nascimento">Selecionar Data Nascimento</string>
+    <string name="date_selected">Data Selecionada</string>
+    <string name="inrormacoes_str">Informações</string>
+
+    <!-- Form listagem de Pacientes -->
+    <string name="pacientes_cadastrados">Pacientes</string>
+    <string name="sem_pacientes_cadastrados">Você não cadastrou pacientes ainda.\nClique no + e comece já!</string>
+    
+    <string name="confirmar_remover_pacientes">Deseja deletar os pacientes selecionados?</string>
+    <string name="confirmar_remover_um_paciente">Deseja deletar este paciente?</string>
+    
+    <string name="sem_outros_pacientes">Não há outros pacientes para selecionar</string>
+    
+  
+
+    <!-- Toast strings -->
+    <string name="operacao_executada_com_sucesso">Operação executada com sucesso.</string>
+    <string name="title_activity_ranking">RankingActivity</string>
+
+    <!-- Dialog -->
+    <string name="excluir">Excluir</string>
+    <string name="excluir_mensagem">Tem certeza que deseja excluir?</string>
+
+    <!-- Link -->
+    <string name="link_informacoes">http://www.lifeupbrasil.com.br/cangamept/</string>
+    
+    <string name="paciente">Paciente</string>
+    <string name="relatorio">Relatório</string>
+    <string name="pecs_usuario">PECS do Usuário</string>
+    <string name="rotinas_usuario">Rotinas do Usuário</string>
+    <string name="criar_nova">Criar Nova</string>
+    <string name="selecionar_existente_aplicativo">Existente no Aplicativo</string>
+    <string name="dados_perfil_paciente">Dados do Perfil</string>
+    <string name="precisa_de_imagem">Imagem é obrigatória.</string>
+    <string name="rotinas_str">Rotinas</string>
+
+    <!-- Form PECS -->
+  
+    <string name="rotinas">Rotinas do Aplicativo</string>
+    <string name="rotina">Rotina</string>
+    <string name="deletar_pecs_mensagem">Deseja deletar essa PECS?</string>
+    <string name="deletar_multiplas_pecs_mensagem">Deseja deletar as PECS selecionadas?</string>
+    <string name="deletar_pecs_associadas">Uma ou mais PECS estão vinculadas a um usuário. Deseja realmente apagar?</string>
+    <string name="pecs_audio_record">Gravação de Áudio - PECS</string>
+   	<string name="instrucoes_cad_pecs">Preencha corretamente as informações abaixo</string>
+    
+
+    <!-- Form PECS do Paciente -->
+    <string name="title_activity_pecspaciente">PECS do Paciente</string>
+    <string name="incluir_pecs_paciente">Incluir PECS ao Usuário</string>
+    <string name="sem_pecs_cadastradas">Você não cadastrou PECS ainda.\nClique no + e comece já!</string>
+    <string name="sem_pecs_para_selecao">Não há novas PECS para selecionar</string>
+    <string name="executar">Executar</string>
+    <string name="remover">Remover</string>
+    <string name="id_pec">ID da PEC</string>
+    <string name="nome_pecs">Nome da PECS</string>
+    <string name="texto_informativo_pecs">A PECS criada será automaticamente associada ao usuário listado acima</string>
+    <string name="imagem">Imagem</string>
+    <string name="texto">Texto</string>
+    <string name="imagem_pecs">Imagem da PECS</string>
+    <string name="audio_pecs">Áudio da PECS</string>
+    <string name="grava_audio_pecs">Pressione para Gravar Áudio da PECS</string>
+
+    <!-- Form Rotina do Paciente -->
+    <string name="deletar_multiplas_rotinas_mensagem">Deseja deletar as Rotinas selecionadas?</string>
+    <string name="deletar_rotinas_associadas">Uma ou mais rotinas estão vinculadas a um usuário. Deseja realmente apagar?</string>
+    <string name="sem_rotinas_para_selecao">Não há novas Rotinas para selecionar</string>
+    <string name="incluir_rotina_paciente">Associar Rotina ao Usuário</string>
+    <string name="nome_rotina">Nome da Rotina</string>
+    <string name="id_rotina">ID da Rotina</string>
+    <string name="associar_rotina">Associar</string>
+    <string name="remover_rotina">Remover</string>
+    <string name="salvar">Salvar</string>
+    <string name="sem_rotinas_cadastradas">Você não cadastrou rotinas ainda.\nClique no + e comece já!</string>
+    <string name="criar_pecs">Criar nova PECS</string>
+    <string name="album">Álbum</string>
+    <string name="camera">Câmera</string>
+    <string name="remover_foto">Remover Foto</string>
+
+    <!-- Form Configuração -->
+    <string name="configuracao">Configurações</string>
+    <string name="tempo_txt">Tempo de Espera para Exibição do Texto:</string>
+    <string name="tempo_audio">Tempo de Espera para Reprodução do Áudio:</string>
+    <string name="tempo_video">Tempo de Espera para Reprodução do Vídeo:</string>
+    <string name="instrucoes_config">Utilize os controles deslizantes para indicar o tempo de execução de fases numa PECS.</string>
+    <string name="button_salvar">Salvar</string>
+
+    <!-- Rankings -->
+    <string name="sem_ranking_atribuido">Não há ranking atribuído para esta PECS do paciente</string>
+     <string name="raking_de_execucao">Ranking de Execução</string>
+     <string name="rakings_str">Rankings</string>
+
+    <!-- StartActivity -->
+
+    <string name="need_create_a_pacient">Você precisa criar um paciente</string>
+    <string name="choose_a_pacient">Escolha um paciente</string>
+    
+    <!-- Paciente -->
+    
+    <!-- PECS -->
+    
+    <string name="pecs">PECS do Aplicativo</string>
+    
+    <!-- Perfil do Paciente -->
+    
+    <string name="pecs_do_paciente">PECS do Paciente</string>
+    <string name="rotinas_do_paciente">Rotinas do Paciente</string>
+    
+    <string name="rotina_foi_salva">A rotina foi salva</string>
+    
+    <string name="pecs_do_paciente_upercase">PECS DO PACIENTE</string>
+    <string name="rotinas_do_paciente_upercase">ROTINAS DO PACIENTE</string>
+    
+    <!-- Rotinas -->
+    
+    <string name="pecs_do_rotina">PECS da Rotina</string>
+    <string name="incluir_pecs">Incluir PECS</string>
+   
+    <string name="sem_pecs_relacionadas">Não há PECS relacionadas</string>
+    
+    <!-- Gravador -->
+    
+    <string name="gravador">Gravador</string>
+
+    <!-- Categoria -->
+
+    <string name="categoria">Categoria</string>
+    <string name="categorias">Categorias</string>
+    <string name="nome_categoria">Nome da categoria</string>
+    <string name="sem_categorias_cadastradas">Não há categorias cadastradas</string>
+    <string name="inserir_categorias_duplicadas">Não é possível ter 2 categorias com mesmo nome</string>
+    <string name="excluir_categorias">Excluir categorias</string>
+    <string name="excluir_categorias_mensagem">Deseja remover as categorias selecionadas?</string>
+    <string name="excluir_uma_categoria_mensagem">Deseja remover a categoria selecionada?</string>
+    <string name="categoria_permanente">Geral</string>
+    <string name="delecao_categoria_obrigatoria">Não possivel excluir a categoria "%s"</string>
+
+    
+     <!-- Geral -->
+    
+    <string name="selecoes_com_long_press">Mantenha o item pressionado para selecionar</string>
+    <string name="completar_acao_usando">Completar ação usando</string> 
+    <string name="ok">OK</string>
+    <string name="sim">Sim</string>
+    <string name="novo">Novo</string>
+    <string name="incluir">Incluir</string>
+    <string name="editar">Editar</string>
+    <string name="deletar">Deletar</string>
+    <string name="sair">Sair</string>
+    <string name="sair_da_edicao_mensagem">Deseja sair do modo edição?</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="erro_nome_vazio">Insira um nome</string>
+    <string name="erro_data_vazia">Defina um data</string>
+    <string name="erro_sem_sexo">Defina o sexo</string>
+    <string name="multimidia">MULTIMÍDIA</string>
+    <string name="txt_e_imagem">TEXTO E IMAGEM</string>
+    <string name="lorem_impsu">Lorem impsu sit amet ianevue lorem amet</string>
+    <string name="lbl_instrucoes_pecs">Utilize os comandos na parte inferior da tela para controlar a execução da PECS.</string>
+    <string name="lbl_texto_e_imagem">TEXTO E IMAGEM</string>
+    <string name="img_pecs">Imagem da PECS</string>
+    <string name="lbl_extra_multimidia">EXTRA MULTIMÍDIA</string>
+    <string name="video_pecs">Vídeo da PECS</string>
+    <string name="lbl_config_app">CONFIGURAÇÕES</string>
+    <string name="lbl_pecs_rotina">PECS DA ROTINA</string>
+    <string name="selecione">Selecione</string>
+    <string name="selecione_para_incluir">Selecione para incluir</string>
+    <string name="resumo_pecs_selec">Resumo da PECS Selecionada</string>
+    <string name="rk_pac_pecs">Ranking do Paciente na PECS</string>
+    
+     
+    
+    <!-- Formatação -->
+    
+     <string name="somente_numeros">0123456789</string>
+    
+</resources>

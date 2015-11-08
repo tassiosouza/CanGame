@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.funfactory.cangamemake.ListarPacienteActivity" >
+
+    <item
+        android:id="@+id/action_edit"
+        android:icon="@drawable/ic_action_edit"
+        android:showAsAction="always"
+        android:title="@string/editar"/>
+    <item
+        android:id="@+id/action_delete"
+        android:icon="@drawable/ic_action_discard"
+        android:showAsAction="always"
+        android:title="@string/deletar"/>
+     <item
+        android:id="@+id/action_executar"
+        android:icon="@drawable/ic_play"
+        android:showAsAction="always"
+        android:title="@string/executar"/>
+
+</menu><!-- From: file:/Users/Tassio/CanGameMaker1/app/src/main/res/menu/executar_excluir_editar.xml -->
