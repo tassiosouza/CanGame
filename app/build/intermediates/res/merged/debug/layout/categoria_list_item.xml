@@ -14,4 +14,4 @@
         android:text="@string/nome_rotina"
         android:textAppearance="?android:attr/textAppearanceLarge" />
 
-</LinearLayout><!-- From: file:/Users/Tassio/CanGameMaker1/app/src/main/res/layout/categoria_list_item.xml -->
+</LinearLayout><!-- From: file:/Users/Tassio/Documents/CanGame/app/src/main/res/layout/categoria_list_item.xml -->

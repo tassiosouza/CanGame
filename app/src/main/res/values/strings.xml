@@ -33,7 +33,7 @@
     <string name="contato_pai">Telefone do Pai</string>
     <string name="contato_mae">Telefone da Mãe</string>
     <string name="data_nascimento">Selecionar Data Nascimento</string>
-    <string name="date_selected">Data Selecionada</string>
+    <string name="date_selected">Selecione uma Data</string>
     <string name="inrormacoes_str">Informações</string>
 
     <!-- Form listagem de Pacientes -->

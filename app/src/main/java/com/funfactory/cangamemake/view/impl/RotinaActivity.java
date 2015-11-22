@@ -92,9 +92,7 @@ public class RotinaActivity extends GenericActivity implements IRotinaActivity {
     }
     
     @Override
-    protected void onResume() {
-    	super.onResume();
-    }
+    protected void onResume() {super.onResume();}
 
     @Override
     public void setEmptyView(int stringID) {

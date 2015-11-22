@@ -31,6 +31,7 @@ import com.funfactory.cangamemake.view.adapter.ListSelectorHandler;
 import com.funfactory.cangamemake.view.adapter.ListarPECSAdapter;
 import com.funfactory.cangamemake.view.impl.ListarPECSActivity;
 import com.funfactory.cangamemake.view.impl.PECSActivity;
+import com.funfactory.cangamemake.view.impl.RotinaActivity;
 import com.funfactory.cangamemake.view.listener.IChoicesHandle;
 
 public class ListarPECSPresenter extends GenericPresenter implements IListarPECSPresenter {

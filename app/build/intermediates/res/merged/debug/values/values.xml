@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/Tassio/CanGameMaker1/app/src/main/res/values/roboguice.xml -->
+    <!-- From: file:/Users/Tassio/Documents/CanGame/app/src/main/res/values/roboguice.xml -->
     <eat-comment/>
     <string-array name="roboguice_modules" translatable="false">
         <item>com.funfactory.cangamemake.BindingModule</item>
     </string-array>
-    <!-- From: file:/Users/Tassio/CanGameMaker1/app/src/main/res/values/color.xml -->
+    <!-- From: file:/Users/Tassio/Documents/CanGame/app/src/main/res/values/color.xml -->
     <eat-comment/>
     <color name="Black">#000000</color>
     <color name="Red">#DB5E3B</color>
     <color name="White">#FFFFFF</color>
     <color name="actionbar_color">#002339</color>
     <color name="bg_item">#e9eaec</color>
-    <!-- From: file:/Users/Tassio/CanGameMaker1/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/Tassio/Documents/CanGame/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="black_overlay">#66000000</color>
-    <!-- From: file:/Users/Tassio/CanGameMaker1/app/src/main/res/values/color.xml -->
+    <!-- From: file:/Users/Tassio/Documents/CanGame/app/src/main/res/values/color.xml -->
     <eat-comment/>
     <color name="blue_light">#5f87cc</color>
     <color name="btn_dialog_input">#252f40</color>
@@ -32,11 +32,11 @@
     <color name="time_line_green">#59a645</color>
     <color name="transparent">#00000000</color>
     <declare-styleable name="ButtonBarContainerTheme"><attr format="reference" name="metaButtonBarStyle"/><attr format="reference" name="metaButtonBarButtonStyle"/></declare-styleable>
-    <!-- From: file:/Users/Tassio/CanGameMaker1/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/Tassio/Documents/CanGame/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/Users/Tassio/CanGameMaker1/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/Tassio/Documents/CanGame/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="action_settings">Configurações</string>
     <string name="album">Álbum</string>
@@ -61,7 +61,7 @@
     <string name="criar_pecs">Criar nova PECS</string>
     <string name="dados_perfil_paciente">Dados do Perfil</string>
     <string name="data_nascimento">Selecionar Data Nascimento</string>
-    <string name="date_selected">Data Selecionada</string>
+    <string name="date_selected">Selecione uma Data</string>
     <string name="delecao_categoria_obrigatoria">Não possivel excluir a categoria "%s"</string>
     <string name="deletar">Deletar</string>
     <string name="deletar_multiplas_pecs_mensagem">Deseja deletar as PECS selecionadas?</string>
@@ -180,7 +180,7 @@
     <string name="title_activity_ranking">RankingActivity</string>
     <string name="txt_e_imagem">TEXTO E IMAGEM</string>
     <string name="video_pecs">Vídeo da PECS</string>
-    <!-- From: file:/Users/Tassio/CanGameMaker1/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/Tassio/Documents/CanGame/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="ActionBar.Solid.Example" parent="@android:style/Widget.Holo.Light.ActionBar.Solid">
         <item name="android:background">@drawable/ab_solid_example</item>

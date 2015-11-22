@@ -1,167 +1,167 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:2:1-92:12
+ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:2:1-92:12
 	package
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:3:5-41
-		INJECTED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:5:5-30
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:5:5-30
 	android:versionCode
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:4:5-28
-		INJECTED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:2:11-69
 uses-sdk
-ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-v4:22.2.1] /Users/Tassio/CanGameMaker1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.2.1] /Users/Tassio/Documents/CanGame/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:9:9-38
-		INJECTED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:8:9-35
-		INJECTED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.CAMERA
-ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:11:5-65
+ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:11:5-65
 	android:name
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:11:22-62
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:11:22-62
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:12:5-71
+ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:12:5-71
 	android:name
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:12:22-68
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:12:22-68
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:13:5-81
+ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:13:5-81
 	android:name
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:13:22-78
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:13:22-78
 uses-feature#android.hardware.camera
-ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:15:5-60
+ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:15:5-60
 	android:name
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:15:19-57
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:15:19-57
 uses-feature#android.hardware.microphone
-ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:16:5-64
+ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:16:5-64
 	android:name
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:16:19-61
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:16:19-61
 application
-ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:18:5-90:19
-MERGED from [com.android.support:support-v4:22.2.1] /Users/Tassio/CanGameMaker1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:18:5-90:19
+MERGED from [com.android.support:support-v4:22.2.1] /Users/Tassio/Documents/CanGame/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:23:9-41
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:23:9-41
 	android:allowBackup
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:20:9-35
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:20:9-35
 	android:icon
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:22:9-44
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:22:9-44
 	android:largeHeap
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:21:9-33
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:21:9-33
 	android:theme
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:24:9-40
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:24:9-40
 	android:name
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:19:9-62
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:19:9-62
 activity#com.funfactory.cangamemake.view.impl.StartActivity
-ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:25:9-34:20
+ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:25:9-34:20
 	android:screenOrientation
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:28:13-49
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:28:13-49
 	android:label
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:27:13-45
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:27:13-45
 	android:name
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:26:13-52
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:26:13-52
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:29:13-33:29
+ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:29:13-33:29
 action#android.intent.action.MAIN
-ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:30:17-69
+ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:30:17-69
 	android:name
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:30:25-66
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:30:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:32:17-77
+ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:32:17-77
 	android:name
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:32:27-74
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:32:27-74
 activity#com.funfactory.cangamemake.view.impl.PerfilPacienteActivity
-ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:35:9-39:20
+ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:35:9-39:20
 	android:screenOrientation
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:38:13-49
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:38:13-49
 	android:label
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:37:13-45
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:37:13-45
 	android:name
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:36:13-61
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:36:13-61
 activity#com.funfactory.cangamemake.view.impl.PacienteActivity
-ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:40:9-44:20
+ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:40:9-44:20
 	android:screenOrientation
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:43:13-49
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:43:13-49
 	android:label
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:42:13-70
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:42:13-70
 	android:name
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:41:13-55
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:41:13-55
 activity#com.funfactory.cangamemake.view.impl.CategoriaActivity
-ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:45:9-49:20
+ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:45:9-49:20
 	android:screenOrientation
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:48:13-49
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:48:13-49
 	android:label
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:47:13-47
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:47:13-47
 	android:name
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:46:13-56
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:46:13-56
 activity#com.funfactory.cangamemake.view.impl.ListarPacienteActivity
-ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:50:9-54:20
+ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:50:9-54:20
 	android:screenOrientation
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:53:13-49
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:53:13-49
 	android:label
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:52:13-58
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:52:13-58
 	android:name
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:51:13-61
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:51:13-61
 activity#com.funfactory.cangamemake.view.impl.PECSActivity
-ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:55:9-59:20
+ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:55:9-59:20
 	android:screenOrientation
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:58:13-49
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:58:13-49
 	android:label
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:57:13-41
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:57:13-41
 	android:name
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:56:13-51
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:56:13-51
 activity#com.funfactory.cangamemake.view.impl.ListarPECSActivity
-ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:60:9-64:20
+ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:60:9-64:20
 	android:screenOrientation
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:63:13-49
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:63:13-49
 	android:label
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:62:13-41
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:62:13-41
 	android:name
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:61:13-57
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:61:13-57
 activity#com.funfactory.cangamemake.view.impl.RotinaActivity
-ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:65:9-69:20
+ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:65:9-69:20
 	android:screenOrientation
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:68:13-49
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:68:13-49
 	android:label
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:67:13-43
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:67:13-43
 	android:name
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:66:13-53
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:66:13-53
 activity#com.funfactory.cangamemake.view.impl.ListarRotinaActivity
-ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:70:9-74:20
+ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:70:9-74:20
 	android:screenOrientation
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:73:13-49
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:73:13-49
 	android:label
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:72:13-44
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:72:13-44
 	android:name
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:71:13-59
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:71:13-59
 activity#com.funfactory.cangamemake.view.impl.ExecutarRotinasActivity
-ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:75:9-79:20
+ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:75:9-79:20
 	android:screenOrientation
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:78:13-49
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:78:13-49
 	android:label
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:77:13-44
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:77:13-44
 	android:name
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:76:13-62
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:76:13-62
 activity#com.funfactory.cangamemake.view.impl.ConfigActivity
-ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:80:9-84:20
+ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:80:9-84:20
 	android:screenOrientation
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:83:13-49
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:83:13-49
 	android:label
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:82:13-49
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:82:13-49
 	android:name
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:81:13-53
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:81:13-53
 activity#com.funfactory.cangamemake.view.impl.ExecutarPECSActivity
-ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:85:9-89:20
+ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:85:9-89:20
 	android:screenOrientation
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:88:13-49
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:88:13-49
 	android:label
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:87:13-41
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:87:13-41
 	android:name
-		ADDED from /Users/Tassio/CanGameMaker1/app/src/main/AndroidManifest.xml:86:13-59
+		ADDED from /Users/Tassio/Documents/CanGame/app/src/main/AndroidManifest.xml:86:13-59

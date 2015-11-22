@@ -26,4 +26,4 @@
         android:drawable="@drawable/spinner_ab_focused_example" />
     <item android:drawable="@drawable/spinner_ab_default_example" />
 </selector>
-<!-- From: file:/Users/Tassio/CanGameMaker1/app/src/main/res/drawable/spinner_background_ab_example.xml -->
+<!-- From: file:/Users/Tassio/Documents/CanGame/app/src/main/res/drawable/spinner_background_ab_example.xml -->

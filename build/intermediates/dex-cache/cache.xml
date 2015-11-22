@@ -2,74 +2,74 @@
 <items version="2" >
 
     <item
-        jar="/Users/Tassio/CanGameMaker1/app/libs/dragndroplist.jar"
+        jar="/Users/Tassio/Documents/CanGame/app/libs/commons-lang3-3.1.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="a54dfc6418f5ccfad72ab620b791a8c223620b80">
-        <dex dex="/Users/Tassio/CanGameMaker1/app/build/intermediates/pre-dexed/debug/dragndroplist-e388b69c2c0a06d094ba471a4c75fcb2c27abb3a.jar" />
-    </item>
-    <item
-        jar="/Users/Tassio/CanGameMaker1/app/libs/universal-image-loader-1.9.3-with-sources.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="03e3948d42b8d78961a092a184af66bd86da42e6">
-        <dex dex="/Users/Tassio/CanGameMaker1/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-with-sources-b4698c393cae5f163ee5b8ae6aabfff24b529001.jar" />
+        sha1="905075e6c80f206bbe6cf1e809d2caa69f420c76">
+        <dex dex="/Users/Tassio/Documents/CanGame/app/build/intermediates/pre-dexed/debug/commons-lang3-3.1-c6907e0625be073bec5ac69597f567e81f14a3fa.jar" />
     </item>
     <item
         jar="/Users/Tassio/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
-        <dex dex="/Users/Tassio/CanGameMaker1/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-c56fcc5ddcb294f4ea5d3fd19eb6bed9e6e832ab.jar" />
+        <dex dex="/Users/Tassio/Documents/CanGame/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-c56fcc5ddcb294f4ea5d3fd19eb6bed9e6e832ab.jar" />
     </item>
     <item
-        jar="/Users/Tassio/CanGameMaker1/app/libs/javax.inject-1.jar"
+        jar="/Users/Tassio/Documents/CanGame/app/libs/javax.inject-1.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/Users/Tassio/CanGameMaker1/app/build/intermediates/pre-dexed/debug/javax.inject-1-0e9335b25bb0a7d1c97b1b028191a219468c9232.jar" />
+        <dex dex="/Users/Tassio/Documents/CanGame/app/build/intermediates/pre-dexed/debug/javax.inject-1-37cf2a639f81fba648e05ab95e21ba8ba0c32f55.jar" />
     </item>
     <item
-        jar="/Users/Tassio/CanGameMaker1/app/libs/roboguice-2.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="727ccb8f376109d0b5c44abca6f791dccc5c5dbc">
-        <dex dex="/Users/Tassio/CanGameMaker1/app/build/intermediates/pre-dexed/debug/roboguice-2.0-8f5fa7437967a9f493ef875008c00d488b5ebadd.jar" />
-    </item>
-    <item
-        jar="/Users/Tassio/CanGameMaker1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
-        <dex dex="/Users/Tassio/CanGameMaker1/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-2fa0d57e4b8b0febf58c5ebf890288846affad63.jar" />
-    </item>
-    <item
-        jar="/Users/Tassio/CanGameMaker1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="f8efd0096475e0daf054267b61544e10dc776503">
-        <dex dex="/Users/Tassio/CanGameMaker1/app/build/intermediates/pre-dexed/debug/classes-bb7b750242d9c5caeeb02f60786eaeb891e94f44.jar" />
-    </item>
-    <item
-        jar="/Users/Tassio/CanGameMaker1/app/libs/commons-lang3-3.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="905075e6c80f206bbe6cf1e809d2caa69f420c76">
-        <dex dex="/Users/Tassio/CanGameMaker1/app/build/intermediates/pre-dexed/debug/commons-lang3-3.1-3c8ba6c524b02cbbcf575086469efbf9b32889b6.jar" />
-    </item>
-    <item
-        jar="/Users/Tassio/CanGameMaker1/app/libs/commons-io-1.3.2.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="b6dde38349ba9bb5e6ea6320531eae969985dae5">
-        <dex dex="/Users/Tassio/CanGameMaker1/app/build/intermediates/pre-dexed/debug/commons-io-1.3.2-b16b5101cd5dd15e7f13ff33ff073fb220e053f9.jar" />
-    </item>
-    <item
-        jar="/Users/Tassio/CanGameMaker1/app/libs/guice-3.0-no_aop.jar"
+        jar="/Users/Tassio/Documents/CanGame/app/libs/guice-3.0-no_aop.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="28586dc97c525501329d9a242fc3402041e3572d">
-        <dex dex="/Users/Tassio/CanGameMaker1/app/build/intermediates/pre-dexed/debug/guice-3.0-no_aop-0c6a0c9a30d2d2ff924cc55ae9ac054d29a1580a.jar" />
+        <dex dex="/Users/Tassio/Documents/CanGame/app/build/intermediates/pre-dexed/debug/guice-3.0-no_aop-46399f6061523dcec5ad7d6aa9b5f32fc52b22bd.jar" />
+    </item>
+    <item
+        jar="/Users/Tassio/Documents/CanGame/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/Tassio/Documents/CanGame/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-25c29824ff8886522c212da053640bbfe3b8ce7c.jar" />
+    </item>
+    <item
+        jar="/Users/Tassio/Documents/CanGame/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/Tassio/Documents/CanGame/app/build/intermediates/pre-dexed/debug/classes-15c2aded14ceb1cacc27dfb1a7a3c2771cd6406a.jar" />
+    </item>
+    <item
+        jar="/Users/Tassio/Documents/CanGame/app/libs/roboguice-2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="727ccb8f376109d0b5c44abca6f791dccc5c5dbc">
+        <dex dex="/Users/Tassio/Documents/CanGame/app/build/intermediates/pre-dexed/debug/roboguice-2.0-b768e495a8069a7b6f1869998a9375de54ce946e.jar" />
+    </item>
+    <item
+        jar="/Users/Tassio/Documents/CanGame/app/libs/universal-image-loader-1.9.3-with-sources.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="03e3948d42b8d78961a092a184af66bd86da42e6">
+        <dex dex="/Users/Tassio/Documents/CanGame/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-with-sources-27ba381b5c56d1c60d833a29177a48350bb1af01.jar" />
+    </item>
+    <item
+        jar="/Users/Tassio/Documents/CanGame/app/libs/commons-io-1.3.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b6dde38349ba9bb5e6ea6320531eae969985dae5">
+        <dex dex="/Users/Tassio/Documents/CanGame/app/build/intermediates/pre-dexed/debug/commons-io-1.3.2-4be150251f15551750b6546caa2e1333d67ac37a.jar" />
+    </item>
+    <item
+        jar="/Users/Tassio/Documents/CanGame/app/libs/dragndroplist.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a54dfc6418f5ccfad72ab620b791a8c223620b80">
+        <dex dex="/Users/Tassio/Documents/CanGame/app/build/intermediates/pre-dexed/debug/dragndroplist-f7c6d5287f792b6dbe7c5ab96d1df37930f32343.jar" />
     </item>
 
 </items>

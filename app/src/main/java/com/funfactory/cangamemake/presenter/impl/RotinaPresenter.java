@@ -109,6 +109,7 @@ public class RotinaPresenter extends GenericPresenter implements IRotinaPresente
                                                            int pos = getPosition(id);
                                                            if (pos != -1) {
                                                                mPECS.remove(pos);
+                                                               adpeterCreated = false;
                                                                setListContent();
                                                                salvar();
                                                            }
@@ -194,14 +195,17 @@ public class RotinaPresenter extends GenericPresenter implements IRotinaPresente
         }  
         super.onPause();
     }
-
+    boolean adpeterCreated = false;
     public void setListContent() {
 
-        createAdapter();
-
-        mView.setAdapterDrapDrop(mAdapter, listener);
-        mAdapter.setDeleleListener(deleteListener);
-        mAdapter.notifyDataSetChanged();
+        if(!adpeterCreated)
+        {
+            createAdapter();
+            adpeterCreated = true;
+            mView.setAdapterDrapDrop(mAdapter, listener);
+            mAdapter.setDeleleListener(deleteListener);
+            mAdapter.notifyDataSetChanged();
+        }
 
     }
 
@@ -275,6 +279,7 @@ public class RotinaPresenter extends GenericPresenter implements IRotinaPresente
 
         if (requestCode == Constants.ACAO_SELECAO && resultCode == Activity.RESULT_OK) {
             Rotina rotina = (Rotina) data.getExtras().get(Constants.ROTINA);
+            adpeterCreated = false;
             adicionarRetornaARotina(rotina.getListaPECS());
         } else if (requestCode == Constants.ACAO_SELECAO_CATEGORIA && resultCode == Activity.RESULT_OK) {
             Categoria categoria = (Categoria) data.getExtras().get(Constants.CATEGORIA);
@@ -292,6 +297,7 @@ public class RotinaPresenter extends GenericPresenter implements IRotinaPresente
         mPECS.addAll(pecs);
         mRotina.setListaPECS(mPECS);
         setListContent();
+        salvar();
     }
 
     @Override
