@@ -33,22 +33,22 @@
     <string name="contato_pai">Telefone do Pai</string>
     <string name="contato_mae">Telefone da Mãe</string>
     <string name="data_nascimento">Selecionar Data Nascimento</string>
-    <string name="date_selected">Selecione uma Data</string>
+    <string name="date_selected">Selecione a data de nascimento do paciente</string>
     <string name="inrormacoes_str">Informações</string>
 
     <!-- Form listagem de Pacientes -->
     <string name="pacientes_cadastrados">Pacientes</string>
     <string name="sem_pacientes_cadastrados">Você não cadastrou pacientes ainda.\nClique no + e comece já!</string>
     
-    <string name="confirmar_remover_pacientes">Deseja deletar os pacientes selecionados?</string>
-    <string name="confirmar_remover_um_paciente">Deseja deletar este paciente?</string>
+    <string name="confirmar_remover_pacientes">Deseja remover os pacientes selecionados?</string>
+    <string name="confirmar_remover_um_paciente">Deseja remover este paciente?</string>
     
     <string name="sem_outros_pacientes">Não há outros pacientes para selecionar</string>
     
   
 
     <!-- Toast strings -->
-    <string name="operacao_executada_com_sucesso">Operação executada com sucesso.</string>
+    <string name="operacao_executada_com_sucesso">Operação realizada com sucesso.</string>
     <string name="title_activity_ranking">RankingActivity</string>
 
     <!-- Dialog -->
@@ -72,8 +72,8 @@
   
     <string name="rotinas">Rotinas do Aplicativo</string>
     <string name="rotina">Rotina</string>
-    <string name="deletar_pecs_mensagem">Deseja deletar essa PECS?</string>
-    <string name="deletar_multiplas_pecs_mensagem">Deseja deletar as PECS selecionadas?</string>
+    <string name="deletar_pecs_mensagem">Deseja remover essa PECS?</string>
+    <string name="deletar_multiplas_pecs_mensagem">Deseja remiver as PECS selecionadas?</string>
     <string name="deletar_pecs_associadas">Uma ou mais PECS estão vinculadas a um usuário. Deseja realmente apagar?</string>
     <string name="pecs_audio_record">Gravação de Áudio - PECS</string>
    	<string name="instrucoes_cad_pecs">Preencha corretamente as informações abaixo</string>
@@ -96,8 +96,8 @@
     <string name="grava_audio_pecs">Pressione para Gravar Áudio da PECS</string>
 
     <!-- Form Rotina do Paciente -->
-    <string name="deletar_multiplas_rotinas_mensagem">Deseja deletar as Rotinas selecionadas?</string>
-    <string name="deletar_rotinas_associadas">Uma ou mais rotinas estão vinculadas a um usuário. Deseja realmente apagar?</string>
+    <string name="deletar_multiplas_rotinas_mensagem">Deseja remover as Rotinas selecionadas?</string>
+    <string name="deletar_rotinas_associadas">Uma ou mais rotinas estão vinculadas a um usuário. Deseja realmente remover?</string>
     <string name="sem_rotinas_para_selecao">Não há novas Rotinas para selecionar</string>
     <string name="incluir_rotina_paciente">Associar Rotina ao Usuário</string>
     <string name="nome_rotina">Nome da Rotina</string>
@@ -126,7 +126,7 @@
 
     <!-- StartActivity -->
 
-    <string name="need_create_a_pacient">Você precisa criar um paciente</string>
+    <string name="need_create_a_pacient">Você precisa cadastrar um paciente</string>
     <string name="choose_a_pacient">Escolha um paciente</string>
     
     <!-- Paciente -->
@@ -167,7 +167,7 @@
     <string name="excluir_categorias_mensagem">Deseja remover as categorias selecionadas?</string>
     <string name="excluir_uma_categoria_mensagem">Deseja remover a categoria selecionada?</string>
     <string name="categoria_permanente">Geral</string>
-    <string name="delecao_categoria_obrigatoria">Não possivel excluir a categoria "%s"</string>
+    <string name="delecao_categoria_obrigatoria">Não é possivel remover a categoria "%s"</string>
 
     
      <!-- Geral -->
